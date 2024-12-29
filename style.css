@@ -1,0 +1,37 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+.mainHeading{
+    border: 2px solid #4CAF50;
+    color: darkgreen;
+    background-color: #90EE90;
+    height: 40px;
+    padding-top: 5px;
+    margin-left: 490px;
+    margin-right: 420px;
+}
+.table11{
+    width: 100%;
+    padding-top: 20px;
+}
+.tableHeading{
+    color: darkgreen;
+}
+.email{
+    color: green;
+    font-weight: bold;
+}
+.secondTr{
+    background-color: #C5FCC5;
+}
+.btn{
+    background-color: #90EE90;
+    border: 1px solid darkgreen;
+    color: darkgreen;
+    font-weight: bold;
+    height: 35px;
+}
